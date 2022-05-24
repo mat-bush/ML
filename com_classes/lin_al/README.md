@@ -1,0 +1,1 @@
+This repo will be a project programming the concepts of Linear Algebra for the purpose of improving familiarity with the topic. I understand that many packages such as numpy can make this process easy, but using such as abstraction would be counterproductive. 
